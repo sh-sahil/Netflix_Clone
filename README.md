@@ -13,4 +13,4 @@ This is my first project of HTML and CSS in which I clones a famous OTT Website 
 <img src="public/image-5.png" alt="image-5">
 <img src="public/image-6.png" alt="image-6">
 <img src="public/image-7.png" alt="image-7">
-S
+
